@@ -1,0 +1,5 @@
+## prompt - left
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(root_indicator dir dir_writable_joined vcs)
+
+## prompt - right
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(command_execution_time status os_icon battery ip custom_wifi_signal ram load background_jobs_joined time_joined)

@@ -501,11 +501,11 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>428 363 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>590 288 850 558 0 0 1440 877 </string>
+	<string>407 222 850 537 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>156 188 850 537 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>179 164 970 627 0 0 1440 900 </string>
+	<string>83 128 1151 707 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>232 103 970 627 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
@@ -3414,23 +3414,24 @@
 	</array>
 	<key>NoSyncBFPRecents</key>
 	<array>
+		<string>SauceCodePro Nerd Font</string>
+		<string>SauceCodePro Nerd Font Mono</string>
 		<string>Monaco</string>
 		<string>Menlo</string>
-		<string>PT Mono</string>
 	</array>
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
 		<string>{{0, 0}, {1440, 900}}</string>
 		<key>topLeft</key>
-		<string>{417, 814}</string>
+		<string>{244, 732}</string>
 	</dict>
 	<key>NoSyncInstallationId</key>
 	<string>FF5A5612-49B8-405C-A3E6-198EED5615E1</string>
 	<key>NoSyncLastTipTime</key>
-	<real>592469429.38225603</real>
+	<real>592589431.00780594</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>61</integer>
+	<integer>65</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -4138,9 +4139,10 @@
 		<string>0003</string>
 		<string>0001</string>
 		<string>000</string>
+		<string>0004</string>
 		<string>0002</string>
 		<string>0000</string>
-		<string>0004</string>
+		<string>0005</string>
 	</array>
 	<key>OpenBookmark</key>
 	<false/>
@@ -4190,7 +4192,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2019-10-11T06:48:45Z</date>
+	<date>2019-10-12T16:10:30Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
